@@ -16,7 +16,7 @@ In addition, I have been working on a **Telegram bot**. This bot is a scraper th
 <br/>  
 
 
-## Rapidfire  
+
 <tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on E-commerce shop  
