@@ -22,7 +22,7 @@ In addition, I have been working on a **Telegram bot**. This bot is a scraper th
 - 🔭 I’m currently working on E-commerce shop  
   
 
-- 🌱 I’m currently learning React and Redux  
+- 🌱 I’m currently learning TS, React and Redux  
   
 
 - ⚡ I love creating modern websites  
