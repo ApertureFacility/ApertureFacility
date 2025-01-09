@@ -5,13 +5,14 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here! 
 My main specialization is **frontend development**, and I have experience working with **React**. I always strive to ensure that my sites are not only functional but also aesthetically appealing.
 
 Recently, I have delved into the world of **Web 3, AI, and crypto**. These are areas that I believe will play a key role in the future , and I am very excited to be a part of it.
 
 In addition, I have been working on a **Telegram bot**. This bot is a scraper that allows users to receive notifications about new listings on the online platform kufar.by. However, it is still in the development stage. What's exciting is that I've managed to implement the same functionality as my competitors who charge for this service, demonstrating the value and potential of my work.  
-  
+
+I am ready to collaborate and work on interesting projects together!You can reach me via <a href="https://t.me/Wizzar1" target="_blank">Telegram.</a>
 
 <br/>  
 
@@ -19,13 +20,13 @@ In addition, I have been working on a **Telegram bot**. This bot is a scraper th
 
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on E-commerce shop  
+- 🔭 I’m currently working on an E-commerce React Typescript Shop as a Frontend Developer
   
 
-- 🌱 I’m currently learning TS, React and Redux  
+- 🌱I’m currently learning Python to expand my skills and become a Full-Stack Developer, while continuing to enhance my expertise in TS, Angular, and Redux  
   
 
-- ⚡ I love creating modern websites  
+- ⚡ I love creating modern websites that are useful for people and solve their problems, balancing my focus on both frontend and backend development
 
 
 </td><td valign="top" width="50%">
